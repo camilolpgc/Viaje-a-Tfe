@@ -31,3 +31,7 @@ Web estática promocional para GitHub Pages, adaptable a móvil. Incluye program
 Para probar el mapa localmente, abre una terminal en la carpeta y ejecuta `python -m http.server 8000`; después visita `http://localhost:8000`. Abrir el HTML con doble clic puede impedir que el navegador cargue los GeoJSON.
 
 La cartografía base usa OpenStreetMap y Leaflet mediante internet.
+
+
+## Corrección de visualización del mapa
+Se ha añadido una fuente alternativa de CSS de Leaflet (jsDelivr) y límites de desbordamiento del mapa. Si sigue desajustado, comprueba la conexión a los CDN y recarga con Ctrl+F5.

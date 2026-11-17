@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx creator="CompeGPS" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1" xmlns:twonav="http://twonav.com/twonav">
+  <trk>
+    <name>NewTrack_2026-11-09_084041</name>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <width>4</width>
+      </line>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+      <twonav:TwoNavExtension>
+        <twonav:activity>4</twonav:activity>
+        <twonav:terrain>0</twonav:terrain>
+      </twonav:TwoNavExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="28.390830" lon="-16.523416">
+        <ele>353.6</ele>
+        <time>2026-11-09T08:40:46.922Z</time>
+        <sym>numbers_1</sym>
+      </trkpt>
+      <trkpt lat="28.390814" lon="-16.523401">
+        <ele>355.0</ele>
+        <time>2026-11-09T08:40:48.842Z</time>
+        <cmt>16</cmt>
+      </trkpt>
+      <trkpt lat="28.390539" lon="-16.523688">
+        <ele>353.0</ele>
+        <time>2026-11-09T08:41:18.688Z</time>
+      </trkpt>
+      <trkpt lat="28.390494" lon="-16.523737">
+        <ele>353.0</ele>
+        <time>2026-11-09T08:41:23.694Z</time>
+      </trkpt>
+      <trkpt lat="28.390365" lon="-16.523884">
+        <ele>353.0</ele>
+        <time>2026-11-09T08:41:38.347Z</time>
+      </trkpt>
+      <trkpt lat="28.390325" lon="-16.523925">
+        <ele>353.0</ele>
+        <time>2026-11-09T08:41:42.624Z</time>
+      </trkpt>
+      <trkpt lat="28.390310" lon="-16.523954">
+        <ele>353.0</ele>
+        <time>2026-11-09T08:41:45.002Z</time>
+        <sym>numbers_2</sym>
+      </trkpt>
+      <trkpt lat="28.390046" lon="-16.524260">
+        <ele>357.0</ele>
+        <time>2026-11-09T08:42:15.154Z</time>
+      </trkpt>
+      <trkpt lat="28.390080" lon="-16.524220">
+        <ele>356.3</ele>
+        <time>2026-11-09T08:42:19.049Z</time>
+      </trkpt>
+      <trkpt lat="28.390080" lon="-16.524220">
+        <ele>356.3</ele>
+        <time>2026-11-09T08:42:19.049Z</time>
+      </trkpt>
+      <trkpt lat="28.390046" lon="-16.524260">
+        <ele>357.0</ele>
+        <time>2026-11-09T08:42:22.943Z</time>
+      </trkpt>
+      <trkpt lat="28.389924" lon="-16.524417">
+        <ele>358.0</ele>
+        <time>2026-11-09T08:42:37.729Z</time>
+      </trkpt>
+      <trkpt lat="28.389618" lon="-16.524811">
+        <ele>358.0</ele>
+        <time>2026-11-09T08:43:14.757Z</time>
+      </trkpt>
+      <trkpt lat="28.389574" lon="-16.524850">
+        <ele>358.0</ele>
+        <time>2026-11-09T08:43:19.185Z</time>
+        <sym>numbers_3</sym>
+      </trkpt>
+      <trkpt lat="28.389446" lon="-16.525044">
+        <ele>359.0</ele>
+        <time>2026-11-09T08:43:36.296Z</time>
+        <sym>numbers_4</sym>
+      </trkpt>
+      <trkpt lat="28.389288" lon="-16.525257">
+        <ele>360.0</ele>
+        <time>2026-11-09T08:43:55.874Z</time>
+        <cmt>Calle Carrera del Escultor Estévez</cmt>
+        <sym>C:/Program Files/TwoNav Land2222/symbols/navigation.zip/right_strong</sym>
+      </trkpt>
+      <trkpt lat="28.389288" lon="-16.525257">
+        <ele>360.0</ele>
+        <time>2026-11-09T08:43:55.874Z</time>
+      </trkpt>
+      <trkpt lat="28.389136" lon="-16.525443">
+        <ele>362.4</ele>
+        <time>2026-11-09T08:44:13.814Z</time>
+        <sym>numbers_5</sym>
+      </trkpt>
+      <trkpt lat="28.388889" lon="-16.525661">
+        <ele>366.0</ele>
+        <time>2026-11-09T08:44:38.831Z</time>
+      </trkpt>
+      <trkpt lat="28.388651" lon="-16.525852">
+        <ele>370.0</ele>
+        <time>2026-11-09T08:45:02.169Z</time>
+      </trkpt>
+      <trkpt lat="28.388561" lon="-16.525884">
+        <ele>371.9</ele>
+        <time>2026-11-09T08:45:09.671Z</time>
+        <sym>numbers_6</sym>
+      </trkpt>
+      <trkpt lat="28.388354" lon="-16.525881">
+        <ele>374.0</ele>
+        <time>2026-11-09T08:45:26.273Z</time>
+        <sym>numbers_7</sym>
+      </trkpt>
+      <trkpt lat="28.388085" lon="-16.525869">
+        <ele>377.0</ele>
+        <time>2026-11-09T08:45:47.790Z</time>
+      </trkpt>
+      <trkpt lat="28.388138" lon="-16.525871">
+        <ele>376.0</ele>
+        <time>2026-11-09T08:45:51.992Z</time>
+      </trkpt>
+      <trkpt lat="28.388138" lon="-16.525871">
+        <ele>376.0</ele>
+        <time>2026-11-09T08:45:51.992Z</time>
+      </trkpt>
+      <trkpt lat="28.388085" lon="-16.525869">
+        <ele>377.0</ele>
+        <time>2026-11-09T08:45:56.194Z</time>
+      </trkpt>
+      <trkpt lat="28.388037" lon="-16.525867">
+        <ele>377.0</ele>
+        <time>2026-11-09T08:46:00.049Z</time>
+      </trkpt>
+      <trkpt lat="28.387983" lon="-16.525852">
+        <ele>378.0</ele>
+        <time>2026-11-09T08:46:04.530Z</time>
+      </trkpt>
+      <trkpt lat="28.387834" lon="-16.525821">
+        <ele>379.0</ele>
+        <time>2026-11-09T08:46:16.626Z</time>
+        <sym>numbers_8</sym>
+      </trkpt>
+      <trkpt lat="28.387151" lon="-16.525809">
+        <ele>388.1</ele>
+        <time>2026-11-09T08:47:11.350Z</time>
+        <sym>numbers_9</sym>
+      </trkpt>
+      <trkpt lat="28.387085" lon="-16.525809">
+        <ele>389.0</ele>
+        <time>2026-11-09T08:47:16.584Z</time>
+      </trkpt>
+      <trkpt lat="28.386871" lon="-16.525811">
+        <ele>392.0</ele>
+        <time>2026-11-09T08:47:33.723Z</time>
+      </trkpt>
+      <trkpt lat="28.386806" lon="-16.525809">
+        <ele>392.6</ele>
+        <time>2026-11-09T08:47:38.959Z</time>
+        <cmt>Calle Doctor Domingo González García</cmt>
+        <sym>C:/Program Files/TwoNav Land2222/symbols/navigation.zip/left_light</sym>
+      </trkpt>
+      <trkpt lat="28.386688" lon="-16.525751">
+        <ele>394.0</ele>
+        <time>2026-11-09T08:47:49.257Z</time>
+        <cmt>10</cmt>
+        <sym>waypoint</sym>
+      </trkpt>
+      <trkpt lat="28.386299" lon="-16.525482">
+        <ele>402.1</ele>
+        <time>2026-11-09T08:48:25.672Z</time>
+        <cmt>11</cmt>
+      </trkpt>
+      <trkpt lat="28.386270" lon="-16.525461">
+        <ele>403.0</ele>
+        <time>2026-11-09T08:48:28.405Z</time>
+      </trkpt>
+      <trkpt lat="28.386270" lon="-16.525461">
+        <ele>403.0</ele>
+        <time>2026-11-09T08:48:28.405Z</time>
+      </trkpt>
+      <trkpt lat="28.386299" lon="-16.525482">
+        <ele>402.1</ele>
+        <time>2026-11-09T08:48:31.138Z</time>
+      </trkpt>
+      <trkpt lat="28.386146" lon="-16.525378">
+        <ele>407.0</ele>
+        <time>2026-11-09T08:48:45.405Z</time>
+      </trkpt>
+      <trkpt lat="28.386037" lon="-16.525291">
+        <ele>410.0</ele>
+        <time>2026-11-09T08:48:56.077Z</time>
+      </trkpt>
+      <trkpt lat="28.385769" lon="-16.525037">
+        <ele>418.0</ele>
+        <time>2026-11-09T08:49:24.061Z</time>
+      </trkpt>
+      <trkpt lat="28.385603" lon="-16.524879">
+        <ele>422.0</ele>
+        <time>2026-11-09T08:49:41.358Z</time>
+      </trkpt>
+      <trkpt lat="28.385385" lon="-16.524696">
+        <ele>425.0</ele>
+        <time>2026-11-09T08:50:03.009Z</time>
+      </trkpt>
+      <trkpt lat="28.385385" lon="-16.524696">
+        <ele>425.0</ele>
+        <time>2026-11-09T08:50:03.009Z</time>
+      </trkpt>
+      <trkpt lat="28.385288" lon="-16.524615">
+        <ele>427.0</ele>
+        <time>2026-11-09T08:50:12.658Z</time>
+      </trkpt>
+      <trkpt lat="28.385266" lon="-16.524598">
+        <ele>427.0</ele>
+        <time>2026-11-09T08:50:14.771Z</time>
+        <cmt>12</cmt>
+      </trkpt>
+      <trkpt lat="28.385288" lon="-16.524562">
+        <ele>427.0</ele>
+        <time>2026-11-09T08:50:17.861Z</time>
+      </trkpt>
+      <trkpt lat="28.385367" lon="-16.524424">
+        <ele>427.0</ele>
+        <time>2026-11-09T08:50:29.438Z</time>
+      </trkpt>
+      <trkpt lat="28.385437" lon="-16.524233">
+        <ele>426.0</ele>
+        <time>2026-11-09T08:50:44.026Z</time>
+      </trkpt>
+      <trkpt lat="28.385520" lon="-16.524054">
+        <ele>425.8</ele>
+        <time>2026-11-09T08:50:58.289Z</time>
+      </trkpt>
+      <trkpt lat="28.385520" lon="-16.524054">
+        <ele>425.8</ele>
+        <time>2026-11-09T08:50:58.289Z</time>
+      </trkpt>
+      <trkpt lat="28.385869" lon="-16.524247">
+        <ele>420.0</ele>
+        <time>2026-11-09T08:51:29.406Z</time>
+      </trkpt>
+      <trkpt lat="28.385869" lon="-16.524247">
+        <ele>420.0</ele>
+        <time>2026-11-09T08:51:29.406Z</time>
+      </trkpt>
+      <trkpt lat="28.386118" lon="-16.523853">
+        <ele>421.0</ele>
+        <time>2026-11-09T08:52:03.607Z</time>
+      </trkpt>
+      <trkpt lat="28.386192" lon="-16.523724">
+        <ele>421.0</ele>
+        <time>2026-11-09T08:52:14.470Z</time>
+      </trkpt>
+      <trkpt lat="28.386192" lon="-16.523724">
+        <ele>421.0</ele>
+        <time>2026-11-09T08:52:14.470Z</time>
+      </trkpt>
+      <trkpt lat="28.386317" lon="-16.523509">
+        <ele>421.0</ele>
+        <time>2026-11-09T08:52:32.569Z</time>
+        <cmt>Calle San Juan</cmt>
+        <sym>C:/Program Files/TwoNav Land2222/symbols/navigation.zip/left</sym>
+      </trkpt>
+      <trkpt lat="28.386590" lon="-16.523623">
+        <ele>415.6</ele>
+        <time>2026-11-09T08:52:55.842Z</time>
+        <cmt>13</cmt>
+      </trkpt>
+      <trkpt lat="28.386876" lon="-16.523741">
+        <ele>411.5</ele>
+        <time>2026-11-09T08:53:20.213Z</time>
+      </trkpt>
+      <trkpt lat="28.386864" lon="-16.523737">
+        <ele>412.0</ele>
+        <time>2026-11-09T08:53:21.217Z</time>
+      </trkpt>
+      <trkpt lat="28.386864" lon="-16.523737">
+        <ele>412.0</ele>
+        <time>2026-11-09T08:53:21.217Z</time>
+      </trkpt>
+      <trkpt lat="28.386876" lon="-16.523741">
+        <ele>411.5</ele>
+        <time>2026-11-09T08:53:22.221Z</time>
+        <cmt>Calle Fernando Fuentes</cmt>
+        <sym>C:/Program Files/TwoNav Land2222/symbols/navigation.zip/right</sym>
+      </trkpt>
+      <trkpt lat="28.386994" lon="-16.523451">
+        <ele>412.0</ele>
+        <time>2026-11-09T08:53:44.758Z</time>
+      </trkpt>
+      <trkpt lat="28.387221" lon="-16.522889">
+        <ele>411.1</ele>
+        <time>2026-11-09T08:54:28.288Z</time>
+        <cmt>14</cmt>
+      </trkpt>
+      <trkpt lat="28.387234" lon="-16.522896">
+        <ele>411.0</ele>
+        <time>2026-11-09T08:54:29.431Z</time>
+      </trkpt>
+      <trkpt lat="28.387234" lon="-16.522896">
+        <ele>411.0</ele>
+        <time>2026-11-09T08:54:29.431Z</time>
+      </trkpt>
+      <trkpt lat="28.387221" lon="-16.522889">
+        <ele>411.1</ele>
+        <time>2026-11-09T08:54:30.574Z</time>
+      </trkpt>
+      <trkpt lat="28.387522" lon="-16.523044">
+        <ele>404.0</ele>
+        <time>2026-11-09T08:54:57.056Z</time>
+      </trkpt>
+      <trkpt lat="28.387712" lon="-16.523141">
+        <ele>399.0</ele>
+        <time>2026-11-09T08:55:13.723Z</time>
+      </trkpt>
+      <trkpt lat="28.387932" lon="-16.523262">
+        <ele>394.0</ele>
+        <time>2026-11-09T08:55:33.321Z</time>
+      </trkpt>
+      <trkpt lat="28.388948" lon="-16.523836">
+        <ele>372.9</ele>
+        <time>2026-11-09T08:57:04.101Z</time>
+      </trkpt>
+      <trkpt lat="28.388991" lon="-16.523862">
+        <ele>372.0</ele>
+        <time>2026-11-09T08:57:08.063Z</time>
+      </trkpt>
+      <trkpt lat="28.389035" lon="-16.523901">
+        <ele>371.0</ele>
+        <time>2026-11-09T08:57:12.501Z</time>
+      </trkpt>
+      <trkpt lat="28.389170" lon="-16.523986">
+        <ele>369.0</ele>
+        <time>2026-11-09T08:57:24.871Z</time>
+        <cmt>Calle León</cmt>
+        <sym>C:/Program Files/TwoNav Land2222/symbols/navigation.zip/right_light</sym>
+      </trkpt>
+      <trkpt lat="28.389188" lon="-16.523996">
+        <ele>369.0</ele>
+        <time>2026-11-09T08:57:26.425Z</time>
+      </trkpt>
+      <trkpt lat="28.389625" lon="-16.524240">
+        <ele>362.0</ele>
+        <time>2026-11-09T08:58:05.395Z</time>
+        <cmt>15</cmt>
+      </trkpt>
+      <trkpt lat="28.389965" lon="-16.523904">
+        <ele>357.4</ele>
+        <time>2026-11-09T08:58:41.522Z</time>
+      </trkpt>
+      <trkpt lat="28.389921" lon="-16.523947">
+        <ele>358.0</ele>
+        <time>2026-11-09T08:58:46.176Z</time>
+      </trkpt>
+      <trkpt lat="28.389921" lon="-16.523947">
+        <ele>358.0</ele>
+        <time>2026-11-09T08:58:46.175Z</time>
+      </trkpt>
+      <trkpt lat="28.389965" lon="-16.523904">
+        <ele>357.4</ele>
+        <time>2026-11-09T08:58:50.828Z</time>
+      </trkpt>
+      <trkpt lat="28.390046" lon="-16.523773">
+        <ele>355.0</ele>
+        <time>2026-11-09T08:59:02.083Z</time>
+      </trkpt>
+      <trkpt lat="28.390068" lon="-16.523734">
+        <ele>355.0</ele>
+        <time>2026-11-09T08:59:05.320Z</time>
+        <cmt>Calle Tomás Zerolo</cmt>
+        <sym>C:/Program Files/TwoNav Land2222/symbols/navigation.zip/left</sym>
+      </trkpt>
+      <trkpt lat="28.390253" lon="-16.523904">
+        <ele>353.1</ele>
+        <time>2026-11-09T08:59:24.378Z</time>
+      </trkpt>
+      <trkpt lat="28.390310" lon="-16.523954">
+        <ele>353.0</ele>
+        <time>2026-11-09T08:59:30.165Z</time>
+        <cmt>Calle Carrera del Escultor Estévez</cmt>
+        <sym>C:/Program Files/TwoNav Land2222/symbols/navigation.zip/right</sym>
+      </trkpt>
+      <trkpt lat="28.390325" lon="-16.523925">
+        <ele>353.0</ele>
+        <time>2026-11-09T08:59:32.543Z</time>
+      </trkpt>
+      <trkpt lat="28.390365" lon="-16.523884">
+        <ele>353.0</ele>
+        <time>2026-11-09T08:59:36.821Z</time>
+      </trkpt>
+      <trkpt lat="28.390494" lon="-16.523737">
+        <ele>353.0</ele>
+        <time>2026-11-09T08:59:51.474Z</time>
+      </trkpt>
+      <trkpt lat="28.390539" lon="-16.523688">
+        <ele>353.0</ele>
+        <time>2026-11-09T08:59:56.480Z</time>
+      </trkpt>
+      <trkpt lat="28.391004" lon="-16.523204">
+        <ele>356.0</ele>
+        <time>2026-11-09T09:00:46.965Z</time>
+      </trkpt>
+      <trkpt lat="28.391037" lon="-16.523170">
+        <ele>356.0</ele>
+        <time>2026-11-09T09:00:50.515Z</time>
+        <cmt>Calle de San Agustín</cmt>
+        <sym>C:/Program Files/TwoNav Land2222/symbols/navigation.zip/right_light</sym>
+      </trkpt>
+      <trkpt lat="28.391039" lon="-16.523131">
+        <ele>356.0</ele>
+        <time>2026-11-09T09:00:53.247Z</time>
+      </trkpt>
+      <trkpt lat="28.391044" lon="-16.523098">
+        <ele>356.4</ele>
+        <time>2026-11-09T09:00:55.657Z</time>
+      </trkpt>
+      <trkpt lat="28.391042" lon="-16.523071">
+        <ele>357.0</ele>
+        <time>2026-11-09T09:00:57.542Z</time>
+        <cmt>17</cmt>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

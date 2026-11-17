@@ -2,3 +2,9 @@
 
 /* Precio e información de la actividad de clase */
 .price{font-family:Manrope,sans-serif;font-size:clamp(3.5rem,6vw,5.2rem);font-weight:800;letter-spacing:-.07em;line-height:1.2;margin:16px 0 0}.price span{font-size:16px;letter-spacing:0;font-weight:600}.price-sub{margin-top:6px!important}.includes-title{font-size:19px;margin:26px 0 12px;letter-spacing:-.03em}.includes{list-style:none;padding:0;margin:0 0 12px}.includes li{font-size:13px;line-height:1.6;padding:9px 0 9px 26px;border-bottom:1px solid #dce3d7;position:relative}.includes li:before{content:"✓";position:absolute;left:2px;color:#337450;font-weight:800}.includes a,.contact-email{text-decoration:underline;text-underline-offset:4px}.contact-email{font-weight:800;color:#d9f08d;overflow-wrap:anywhere}.contact-card .smallprint{margin-bottom:18px}
+
+/* Proteccion del contenedor del mapa y sus capas */
+.map-grid > * { min-width:0; }
+.map-wrap { overflow:hidden; isolation:isolate; }
+.map-wrap #map { width:100%; min-width:0; position:relative; overflow:hidden; }
+.leaflet-container { background:#dbe4d8; }
