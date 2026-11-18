@@ -31,4 +31,4 @@ function updateRoute(key){
  if(map){if(layer)map.removeLayer(layer);layer=L.geoJSON(track,{style:{color:r.color,weight:6,opacity:1}}).addTo(map);map.invalidateSize();map.fitBounds(layer.getBounds(),{padding:[32,32],maxZoom:15});setTimeout(()=>map.invalidateSize(),150)}
 }
 document.querySelectorAll('[data-route]').forEach(b=>b.addEventListener('click',()=>updateRoute(b.dataset.route)));
-updateRoute('vinatigos');
+updateRoute('orotava');
