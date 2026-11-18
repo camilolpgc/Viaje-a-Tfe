@@ -17,6 +17,7 @@ function updateRoute(key){
  document.querySelector('#map-title').textContent=r.title;
  document.querySelector('#map-desc').textContent=r.desc;
  document.querySelector('#map-kind').textContent=r.kind;
+ const link3d=document.querySelector('#map-3d');if(link3d)link3d.style.display=key==='vinatigos'?'inline-flex':'none';
  const btn=document.querySelector('#map-download'), badge=document.querySelector('.map-badge'),distance=document.querySelector('#map-length');
  const mapEl=document.querySelector('#map'), embed=document.querySelector('#fortaleza-embed');
  embed.hidden=true;mapEl.hidden=false;
