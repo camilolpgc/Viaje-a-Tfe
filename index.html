@@ -40,8 +40,27 @@
  .header>.btn{display:none}
  .header>.menu{display:block;position:absolute;right:18px;top:50%;transform:translateY(-50%)}
 }
+</style><style>
+/* Cabecera equilibrada: dos logos y menú central */
+.header{display:grid!important;grid-template-columns:minmax(160px,1fr) auto minmax(160px,1fr);gap:24px;align-items:center;min-height:118px;height:auto;padding-top:14px;padding-bottom:14px;position:relative}
+.header>.brand-logo,.header>.brand-logo-right{position:static!important;transform:none!important;margin:0!important;max-width:none;justify-content:flex-start;align-self:center}
+.header>.brand-logo-right{justify-content:flex-end}
+.header>.nav{display:flex;justify-content:center;align-items:center;gap:clamp(12px,1.5vw,25px);flex-wrap:wrap}
+.header .site-logo{height:82px;width:auto;max-width:min(225px,100%);object-fit:contain}
+.header>.btn{position:absolute;right:max(18px,calc((100vw - 1200px)/2));top:auto;bottom:5px;padding:6px 10px;font-size:10px}
+@media(max-width:1000px){.header{grid-template-columns:minmax(120px,1fr) minmax(260px,2fr) minmax(120px,1fr);gap:14px}.header .site-logo{height:64px}.header>.nav{gap:12px}.header>.nav a{font-size:11px}}
+@media(max-width:700px){
+ .header{display:grid!important;grid-template-columns:1fr 1fr 42px;align-items:center;gap:8px;min-height:88px;height:88px;padding:8px 12px;justify-content:initial}
+ .header>.brand-logo,.header>.brand-logo-right{position:static!important;transform:none!important;margin:0!important;max-width:100%;justify-content:flex-start}
+ .header>.brand-logo-right{justify-content:flex-end}
+ .header .site-logo{height:auto;max-height:58px;max-width:100%}
+ .header>.nav{display:none;position:absolute;z-index:20;top:100%;left:0;right:0;flex-direction:column;align-items:stretch;padding:18px;background:#fafaf4;box-shadow:0 10px 20px #0002}
+ .header>.nav.open{display:flex}
+ .header>.menu{display:block;position:static;transform:none;justify-self:end}
+ .header>.btn{display:none}
+}
 </style></head>
-<body><header class="header"><a class="brand brand-logo" href="#inicio"><img class="site-logo" src="assets/logo-islas-vivas.jpg" alt="Logo Islas Vivas"/></a><nav aria-label="Navegación principal" class="nav"><a href="#experiencia">La experiencia</a><a href="#programa">Itinerario</a><a href="#rutas">Las rutas</a><a href="#informacion">Información</a></nav><a class="btn btn-small btn-outline" href="#contacto">Contacto <span>↗</span></a><button aria-expanded="false" aria-label="Abrir menú" class="menu">☰</button></header>
+<body><header class="header"><a class="brand brand-logo" href="#inicio"><img class="site-logo" src="assets/logo-islas-vivas.jpg" alt="Islas Vivas · Inicio"/></a><nav aria-label="Navegación principal" class="nav"><a href="#experiencia">La experiencia</a><a href="#programa">Itinerario</a><a href="#rutas">Las rutas</a><a href="#informacion">Información</a></nav><a class="brand brand-logo brand-logo-right" href="#inicio" aria-label="Islas Vivas · Volver al inicio"><img class="site-logo" src="assets/logo-islas-vivas.jpg" alt=""/></a><a class="btn btn-small btn-outline" href="#contacto">Contacto <span>↗</span></a><button aria-expanded="false" aria-label="Abrir menú" class="menu">☰</button></header>
 <main><section class="hero" id="inicio"><div aria-hidden="true" class="hero-art hero-photo"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Parque_Natural_de_la_Corona_Forestal.jpg?width=1600" alt="" fetchpriority="high"/></div><div class="hero-shade"></div><div class="hero-content wrap"><span class="eyebrow light"><i></i> TENERIFE · 27—29 ENERO 2027</span><h1>Huellas de fuego.<br/><em>Raíces de vida.</em></h1><p>Islas Vivas presenta este proyecto de clase del Felo Monzón: tres días en Tenerife para descubrir sus paisajes volcánicos, bosques y patrimonio a través de la aventura y el senderismo.</p><div class="hero-actions"><a class="btn btn-primary" href="#programa">Descubrir la aventura <span>↗</span></a><a class="quiet-link" href="#rutas">Explorar las rutas <span>↓</span></a></div><div class="hero-stats"><div><strong>03</strong><small>DÍAS DE EXPERIENCIA</small></div><div><strong>02</strong><small>JORNADAS DE SENDERISMO</small></div><div><strong>01</strong><small>ISLA POR DESCUBRIR</small></div></div></div><div class="hero-bottom">GRAN CANARIA → TENERIFE <span>DESLIZA PARA EXPLORAR ↓</span></div></section>
 <section class="intro section wrap" id="experiencia"><div class="section-kicker">01 / LA EXPERIENCIA</div><div class="intro-layout"><div><h2>Un viaje para sentir <em>la isla de otra manera.</em></h2></div><div><p class="lead">Del desafío entre árboles a los senderos que ascienden hacia La Fortaleza. Tres días combinando aventura, patrimonio, volcanes y naturaleza.</p><p>Comenzaremos en Forestal Park y recorreremos el casco histórico de La Orotava. Después, seguiremos las huellas del fuego a través del pinar canario y cerraremos la experiencia junto a los viñátigos centenarios del norte de Tenerife.</p><div class="tags"><span>🌲 Bosques ancestrales</span><span>🌋 Paisaje volcánico</span><span>🥾 Senderismo guiado</span><span>🏛 Patrimonio local</span><span>🎓 Proyecto del Felo Monzón</span></div></div></div></section>
 <section class="program-section section" id="programa"><div class="wrap"><div class="section-kicker">02 / EL ITINERARIO</div><div class="section-top"><h2>Tres días.<br/><em>Mil historias.</em></h2><p>Actividad organizada como proyecto de clase para el alumnado del Felo Monzón, entre naturaleza, aprendizaje y patrimonio.</p></div><div class="days">
