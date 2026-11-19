@@ -9,7 +9,7 @@
 .day-copy{grid-column:2;grid-row:2;padding:34px 42px 28px}
 .day-visual .day-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
 .day:nth-of-type(1) .day-photo{object-position:center 56%}
-.day:nth-of-type(2) .day-photo{object-position:center center}
+.day:nth-of-type(2) .day-photo{object-position:center 32%}
 .day:nth-of-type(3) .day-photo{object-position:center center}
 .day-visual::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(10,32,23,.16),rgba(10,32,23,.03) 52%,rgba(10,32,23,0));pointer-events:none}
 .day-visual>span{z-index:2}
@@ -17,9 +17,14 @@
 @media(max-width:700px){.day{grid-template-columns:1fr !important;grid-template-rows:auto 230px auto}.day-number{grid-row:auto;grid-column:1}.day-visual{grid-column:1;grid-row:auto;height:230px;min-height:230px}.day-copy{grid-column:1;grid-row:auto;padding:26px}}
 </style><style>
 .brand-logo{display:flex;align-items:center;max-width:260px;background:transparent}
-.site-logo{display:block;height:56px;width:auto;border-radius:10px;object-fit:contain;background:#f7f6f2}
-.brand-footer .site-logo{height:82px}
-@media(max-width:700px){.site-logo{height:46px}.brand-footer .site-logo{height:64px}}
+.site-logo{display:block;height:84px;width:auto;border-radius:10px;object-fit:contain;background:#f7f6f2}
+.brand-footer .site-logo{height:110px}
+@media(max-width:700px){.site-logo{height:62px}.brand-footer .site-logo{height:80px}}
+
+.day:nth-of-type(2){grid-template-rows:340px auto !important}
+.day:nth-of-type(2) .day-visual{height:340px;min-height:340px}
+@media(max-width:1000px){.day:nth-of-type(2){grid-template-rows:280px auto !important}.day:nth-of-type(2) .day-visual{height:280px;min-height:280px}}
+@media(max-width:700px){.day:nth-of-type(2){grid-template-rows:auto 280px auto !important}.day:nth-of-type(2) .day-visual{height:280px;min-height:280px}}
 </style></head>
 <body><header class="header"><a class="brand brand-logo" href="#inicio"><img class="site-logo" src="assets/logo-islas-vivas.jpg" alt="Logo Islas Vivas"/></a><nav aria-label="Navegación principal" class="nav"><a href="#experiencia">La experiencia</a><a href="#programa">Itinerario</a><a href="#rutas">Las rutas</a><a href="#informacion">Información</a></nav><a class="btn btn-small btn-outline" href="#contacto">Contacto <span>↗</span></a><button aria-expanded="false" aria-label="Abrir menú" class="menu">☰</button></header>
 <main><section class="hero" id="inicio"><div aria-hidden="true" class="hero-art hero-photo"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Parque_Natural_de_la_Corona_Forestal.jpg?width=1600" alt="" fetchpriority="high"/></div><div class="hero-shade"></div><div class="hero-content wrap"><span class="eyebrow light"><i></i> TENERIFE · 27—29 ENERO 2027</span><h1>Huellas de fuego.<br/><em>Raíces de vida.</em></h1><p>Islas Vivas presenta este proyecto de clase del Felo Monzón: tres días en Tenerife para descubrir sus paisajes volcánicos, bosques y patrimonio a través de la aventura y el senderismo.</p><div class="hero-actions"><a class="btn btn-primary" href="#programa">Descubrir la aventura <span>↗</span></a><a class="quiet-link" href="#rutas">Explorar las rutas <span>↓</span></a></div><div class="hero-stats"><div><strong>03</strong><small>DÍAS DE EXPERIENCIA</small></div><div><strong>02</strong><small>JORNADAS DE SENDERISMO</small></div><div><strong>01</strong><small>ISLA POR DESCUBRIR</small></div></div></div><div class="hero-bottom">GRAN CANARIA → TENERIFE <span>DESLIZA PARA EXPLORAR ↓</span></div></section>
